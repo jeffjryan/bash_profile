@@ -14,9 +14,8 @@ This configuration is specific to my Mac set up with homebrew and a specific env
 ## Step 1: 
   cd ~
 ## Step 2:
-curl https://raw.githubusercontent.com/jeffjryan/bash_profile/master/bash_profile.txt > .bash_profile
-
-This will establish a redirect from your .bash_profile to your .bashrc file.
+For Mac --> curl https://raw.githubusercontent.com/jeffjryan/bash_profile/master/bash_profile.txt > .bash_profile
+For Linux --> curl https://raw.githubusercontent.com/jeffjryan/bash_profile/master/linux.txt > .bash_profileThis will establish a redirect from your .bash_profile to your .bashrc file.
 ## Step 3:
 curl https://raw.githubusercontent.com/jeffjryan/bash_profile/master/bashrc.txt > .bashrc
 
