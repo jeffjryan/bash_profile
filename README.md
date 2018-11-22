@@ -8,6 +8,7 @@ Prior to using any of the steps below, be sure to back up your .bashrc and .bash
 
 # Disclaimers
 I code for recreational use only and do not take responsibility for any problems that my repo may cause you!
+This configuration is specific to my Mac set up with homebrew and a specific env.  This should be changed to work on a standard linux build.
 
 # Configuration Steps
 ## Step 1: 
