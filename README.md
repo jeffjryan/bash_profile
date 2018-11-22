@@ -16,5 +16,6 @@ I code for recreational use only and do not take responsibility for any problems
 curl https://raw.githubusercontent.com/jeffjryan/bash_profile/master/bash_profile.txt > .bash_profile
 --This will establish a redirect from your .bash_profile to your .bashrc file.
 ## Step 3:
-curl https://raw.githubusercontent.com/jeffjryan/bash_profile/master/bashrc.txt > .bash.rc
+curl https://raw.githubusercontent.com/jeffjryan/bash_profile/master/bashrc.txt > .bashrc
+--This will replace your existing .bashrc file with the one from this repo.
 
