@@ -22,4 +22,4 @@ For Mac curl https://raw.githubusercontent.com/jeffjryan/bash_profile/master/bas
 
 For Linux curl https://raw.githubusercontent.com/jeffjryan/bash_profile/master/linux.txt > .bashrc
 
-This will replace your existing .bash_profile file with the one from this repo.
+This will replace your existing .bashrc file with the one from this repo.
