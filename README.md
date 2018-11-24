@@ -1,7 +1,7 @@
 # bash_profile
 My .bash_profile
 # Credits:  
-I copied this profile directly from Nate and all creative credit goes to him.  From the following page: https://natelandau.com/my-mac-osx-bash_profile/
+Much of the basis for this .bashrc I copied directly from Nate Landau https://natelandau.com/my-mac-osx-bash_profile/.  All creative credit goes to him.  From this file as a basis, I modified a few items for myself.  It is an ongoing effort.
 
 # Caution
 Prior to using any of the steps below, be sure to back up your .bashrc and .bash_profile files!
@@ -23,3 +23,5 @@ For Mac curl https://raw.githubusercontent.com/jeffjryan/bash_profile/master/bas
 For Linux curl https://raw.githubusercontent.com/jeffjryan/bash_profile/master/linux.txt > .bashrc
 
 This will replace your existing .bashrc file with the one from this repo.
+## Step 4:
+Restart your terminal to pick up the env changes.
