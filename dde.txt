@@ -1,0 +1,9 @@
+
+
+To install deepIn on Mint 19
+
+From web page:  
+
+sudo add-apt-repository ppa:leaeasy/dde
+sudo apt-get update
+sudo apt-get install dde
