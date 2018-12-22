@@ -14,13 +14,13 @@ This configuration is specific to my Mac set up with homebrew and a specific env
 ## Step 1: 
   cd ~
 ## Step 2:
-curl https://raw.githubusercontent.com/jeffjryan/bash_profile/master/bash_profile.txt > .bash_profile
+```curl https://raw.githubusercontent.com/jeffjryan/bash_profile/master/bash_profile.txt > .bash_profile```
 
 This will establish a redirect from your .bash_profile to your .bashrc file.
 ## Step 3:
-For Mac curl https://raw.githubusercontent.com/jeffjryan/bash_profile/master/bashrc.txt > .bashrc
+For Mac ```curl https://raw.githubusercontent.com/jeffjryan/bash_profile/master/bashrc.txt > .bashrc```
 
-For Linux curl https://raw.githubusercontent.com/jeffjryan/bash_profile/master/linux.txt > .bashrc
+For Linux ```curl https://raw.githubusercontent.com/jeffjryan/bash_profile/master/linux.txt > .bashrc```
 
 This will replace your existing .bashrc file with the one from this repo.
 ## Step 4:
