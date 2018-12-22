@@ -12,9 +12,9 @@ This configuration is specific to my Mac set up with homebrew and a specific env
 
 # Configuration Steps
 ## Step 1: 
-  cd ~
+  ```cd ~```
 ## Step 2:
-```curl https://raw.githubusercontent.com/jeffjryan/bash_profile/master/bash_profile.txt > .bash_profile```
+  ```curl https://raw.githubusercontent.com/jeffjryan/bash_profile/master/bash_profile.txt > .bash_profile```
 
 This will establish a redirect from your .bash_profile to your .bashrc file.
 ## Step 3:
